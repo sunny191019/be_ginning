@@ -10,3 +10,5 @@ Exploration Index
 4. E4. 영화리뷰 텍스트 감성분석하기
 5. E5. Spectrogram classification 
 6. E6. 작사가 인공지능 만들기
+7. E7. 나랑 닮은 연예인 찾기
+8. E8. 영화 추천
